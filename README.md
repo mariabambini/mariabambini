@@ -4,14 +4,12 @@
 
 </div>
 
-```
-╔═════════════.･:*:･✫🐇✫･:*:･˙═════════════╗
-║  🥞  Maria Eduarda Bambini               ║
-║  🦢  Ciência da Computação @ UTFPR       ║
-║  🧸  Cibersegurança                      ║
-║  🍓  Monitoramento e Análise de Logs     ║
-╚══════════════════════════════════════════╝
-```
+<div align="center">
+
+| <pre>╔══════════════.･:*:･✫🐇✫･:*:･˙═════════════╗<br>║  🥞  Maria Eduarda Bambini               ║<br>║  🦢  Ciência da Computação @ UTFPR       ║<br>║  🧸  Cibersegurança                      ║<br>║  🍓  Monitoramento e Análise de Logs     ║<br>╚══════════════════════════════════════════╝</pre> | ![Linguagens mais utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolegama&layout=compact&hide_title=true&theme=radical) |
+|---|---|
+
+</div>
 
 ### Linguagens e Tecnologias
 
@@ -22,15 +20,5 @@
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
 <br/><br/>
-
-<div align="center">
-
-![Linguagens mais utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolegama&layout=compact&hide_title=true&theme=radical)
-
-</div>
-
-<div align="center">
-
-</div>
 
 </div>
