@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mariabambini/mariabambini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFBFED&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Maria+Eduarda;Estudante+de+Ciência+da+Computação+💻)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+╔═════════════.･:*:･✫🐇✫･:*:･˙═════════════╗
+║  🥞  Maria Eduarda Bambini               ║
+║  🦢  Ciência da Computação @ UTFPR       ║
+║  🧸  Cibersegurança                      ║
+║  🍓  Monitoramento e Análise de Logs     ║
+╚══════════════════════════════════════════╝
+```
+
+### Linguagens e Tecnologias
+
+<img align="left" alt="C" title="C" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="left" alt="C++" title="C++" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="React" title="React" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+<br/><br/>
+
+<div align="center">
+
+![Linguagens mais utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolegama&layout=compact&hide_title=true&theme=radical)
+
+</div>
+
+<div align="center">
+
+</div>
+
+</div>
