@@ -11,6 +11,8 @@
 
 </div>
 
+<br/>
+
 <div align="center">
   <img alt="C" title="C" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img alt="C++" title="C++" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -18,7 +20,5 @@
   <img alt="React" title="React" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img alt="Git" title="Git" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
-
-<br/><br/>
 
 </div>
